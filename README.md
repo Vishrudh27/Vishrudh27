@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishrudh27&show_icons=true&locale=en&theme=vision-friendly-dark&layout=compact" alt="vishrudh27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&theme=great-gatsby&locale=en" alt="vishrudh27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&theme=nightowl&locale=en" alt="vishrudh27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrudh27&theme=codeSTACKr" alt="vishrudh27" /></p>
 <img src="https://leetcard.jacoblin.cool/vishrudh?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats">
