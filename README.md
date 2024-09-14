@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vishrudh-n-2b2aa6290" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="display: block;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="display: block; margin-right: 15px;"/>
   </a>
   <a href="https://www.instagram.com/bizarre_boy_vish" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" style="display: block;"/>
