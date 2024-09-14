@@ -1,25 +1,27 @@
-<p >
-  <span style="font-size: 10px; font-weight: bold;">Hi 👋, I'm Vishrudh N</span>
-</p>
 
-<p align="center">
-  <hr style="border: 1px solid #000; width: 50%;"/>
-</p>
+<h1 align="center">Hi 👋, I'm Vishrudh N</h1>
+<h3 align="center">A passionate cybersecurity enthusiast</h3>
 
-💫 **About Me**:
-- 🏫 **Current Studies**: Pursuing BE in Cybersecurity at Sri Krishna College of Technology, India.
-- 🎓 **Year**: 2nd year.
-- 🌱 **Currently Working On**: Advanced cybersecurity concepts and secure application development.
-- 📫 **Contact**: vishrudh27@gmail.com 
+- 🏫 Current Studies: **Pursuing BE in Cybersecurity at Sri Krishna College of Technology, India.**
 
-## 🌐Get in touch:
+- 🎓 Year: **2nd Year**
+
+- 🌱 Currently Working On: **Advanced cybersecurity concepts and secure application development.**
+
+- 📫 Contact: **vishrudh27@gmail.com**
+
+<h3 align="left">Get in touch:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishrudh-n-2b2aa6290" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;"/>
-  </a>
-  <span style="display: inline-block; width: 15px;"></span>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bizarre_boy_vish" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="vertical-align: middle;"/>
-  </a>
+<a href="https://linkedin.com/in/vishrudh-n-2b2aa6290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishrudh-n-2b2aa6290" height="30" width="40" /></a>
+<a href="https://instagram.com/bizarre_boy_vish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bizarre_boy_vish" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishrudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishrudh" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishrudh27&show_icons=true&locale=en&layout=compact" alt="vishrudh27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&locale=en" alt="vishrudh27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrudh27&" alt="vishrudh27" /></p>
