@@ -18,7 +18,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;"/>
   </a>
   <span style="display: inline-block; width: 15px;"></span>
-  &nbsb;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/bizarre_boy_vish" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" style="vertical-align: middle;"/>
   </a>
