@@ -14,6 +14,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/bizarre_boy_vish" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+<a href="https://www.instagram.com/bizarre_boy_vish" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" />
 </a>
