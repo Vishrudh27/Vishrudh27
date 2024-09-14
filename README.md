@@ -22,8 +22,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishrudh27&show_icons=true&locale=en&layout=compact" alt="vishrudh27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishrudh27&show_icons=true&locale=en&theme=vision-friendly-dark&layout=compact" alt="vishrudh27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&locale=en" alt="vishrudh27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&theme=great-gatsby&locale=en" alt="vishrudh27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrudh27&" alt="vishrudh27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrudh27&theme=codeSTACKr" alt="vishrudh27" /></p>
+<img src="https://leetcard.jacoblin.cool/vishrudh?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats">
+
+<a href="https://github.com/vishrudh27">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishrudh27&bg_color=000000&color=00bfe6&line=ff4000&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</a>
+
