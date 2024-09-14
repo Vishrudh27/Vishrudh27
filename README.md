@@ -10,7 +10,7 @@
 - 🏫 **Current Studies**: Pursuing BE in Cybersecurity at Sri Krishna College of Technology, India.
 - 🎓 **Year**: 2nd year.
 - 🌱 **Currently Working On**: Advanced cybersecurity concepts and secure application development.
-- 📫 **Contact**: vishrudh27@gmail.com (replace with your actual email).
+- 📫 **Contact**: vishrudh27@gmail.com 
 
 ## 🌐 Let’s Connect:
 <p align="left">
@@ -20,6 +20,6 @@
   <span style="display: inline-block; width: 15px;"></span>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/bizarre_boy_vish" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/87/87484.png" alt="Instagram" height="40" width="40" style="vertical-align: middle;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="vertical-align: middle;"/>
   </a>
 </p>
