@@ -10,6 +10,10 @@
 📫 How to reach me: vishrudh27@gmail.com 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishrudh-n-2b2aa6290) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bizarre_boy_vish)
-
+<a href="https://www.linkedin.com/in/vishrudh-n-2b2aa6290" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/bizarre_boy_vish" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+</a>
