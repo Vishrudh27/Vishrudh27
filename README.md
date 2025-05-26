@@ -4,7 +4,7 @@
 
 - 🏫 Current Studies: **Pursuing BE in Cybersecurity at Sri Krishna College of Technology, India.**
 
-- 🎓 Year: **3nd Year**
+- 🎓 Year: **3rd Year**
 
 - 🌱 Currently Working On: **Advanced cybersecurity concepts and secure application development.**
 
