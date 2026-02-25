@@ -54,10 +54,9 @@ My cybersecurity background gives me an edge in writing **secure-by-design appli
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishrudh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishrudh27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishrudh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vishrudh27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Streak  
