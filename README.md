@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="Halftone.png" width="300" alt="Vishrudh N"/>
+<img src="Halftone2.png" width="300" alt="Vishrudh N"/>
 </td>
 <td width="70%" valign="middle">
 
