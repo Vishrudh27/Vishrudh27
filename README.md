@@ -1,148 +1,92 @@
-# 👋 Hi, I'm Vishrudh N
+<div align="center">
 
-> **Backend • Cybersecurity • Flutter • Secure System Design**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Vishrudh%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20%7C%20Cybersecurity%20%7C%20Secure%20System%20Design&descAlignY=52&descSize=17" width="100%"/>
 
-> **Note:** This is a starter premium README generated from ChatGPT.
-> Replace placeholder URLs and image names where needed.
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=C7D2FE&center=true&vCenter=true&width=700&lines=Final+Year+B.E+%7C+Cybersecurity;Backend+%26+Secure+System+Design;Flutter+%7C+React+%7C+Spring+Boot;Secure+by+Design.+Scale+with+Confidence." alt="Typing SVG"/>
 
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4338ca&height=220&section=header&text=Hi%20There,%20I'm%20Vishrudh%20N&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure,%20Scalable%20Software&descAlignY=55&descSize=18" width="100%"/>`{=html}
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishrudh-n-2b2aa6290)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishrudh27@gmail.com)
+<a href="https://linkedin.com/in/vishrudh-n-2b2aa6290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/vishrudh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="mailto:vishrudh27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-`<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=C7D2FE&center=true&vCenter=true&width=700&lines=Backend+Developer;Cybersecurity+Student;Flutter+%7C+React+%7C+Spring+Boot;Secure+by+Design.+Scale+with+Confidence." />`{=html}
-:::
+<br/><br/>
 
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=Vishrudh27&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
 
-```{=html}
+</div>
+
+<br/>
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td width="32%" align="center">
-```
-`<img src="Halftone.png" width="260" alt="Halftone"/>`{=html}
-
-```{=html}
+<td width="30%" align="center" valign="middle">
+<img src="Halftone.png" width="300" alt="Vishrudh N"/>
 </td>
-```
-```{=html}
-<td width="68%" valign="top">
-```
+<td width="70%" valign="middle">
+
 ## 👨‍💻 About Me
 
-🎓 Final Year B.E. Cybersecurity\
-🏫 Sri Krishna College of Technology
+🎓 **Final Year, B.E Cybersecurity** — Sri Krishna College of Technology
 
-I enjoy building secure, scalable software with a strong backend focus
-while continuously improving my DSA and software engineering skills.
+I build **efficient, scalable software systems** with a strong backend and DSA foundation — and a cybersecurity lens on everything I ship. Currently widening my stack across **mobile, web, and backend** while sharpening low-level security fundamentals like **WireGuard-based secure networking**.
 
--   💻 Backend Engineering
--   📱 Flutter & React
--   🔐 Secure Software Development
--   ⚙️ System Design
--   🚀 Aspiring Software Engineer
+- 💻 Backend & System Design Enthusiast
+- 📱 Cross-platform builder — Flutter & React
+- 🧠 Consistent DSA Practice
+- 🔐 Security-aware Software Development
+- 🚀 Aspiring SDE / Security Engineer — graduating soon, actively interviewing
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+<br/>
 
-# ⚙️ Technologies I Work With
+## 🛠 Tech Stack
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=java,cpp,python,dart,flutter,react,html,css,tailwind,spring,nodejs,mysql,linux,git,github,docker,vscode"/>`{=html}
-```{=html}
-</p>
-```
+<table>
+<tr><th align="left" width="18%">Area</th><th align="left">Stack</th></tr>
+<tr><td>Languages</td><td><img src="https://skillicons.dev/icons?i=java,cpp,python,dart"/></td></tr>
+<tr><td>Mobile & Frontend</td><td><img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind"/></td></tr>
+<tr><td>Backend & Data</td><td><img src="https://skillicons.dev/icons?i=spring,nodejs,mysql"/></td></tr>
+<tr><td>Tools & Platforms</td><td><img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker"/></td></tr>
+<tr><td>Security</td><td>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Secure_Coding-1e1b4b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network_Security-4338ca?style=flat-square"/>
+</td></tr>
+</table>
 
-------------------------------------------------------------------------
+<br/>
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-  ------------------------------------------------------------------------
-  Project                Description                     Stack
-  ---------------------- ------------------------------- -----------------
-  **Tracely**            Offline-first habit tracker     Flutter • Drift •
-                         with analytics-ready            Riverpod
-                         architecture                    
-
-  **OTNT**               One-Time Network Tunnel using   Node.js • React •
-                         WireGuard                       WireGuard
-
-  **NEETHI**             Explainable eligibility         NLP • AI • Python
-                         inference research              
-  ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Vishrudh27&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrudh27&layout=compact&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-```{=html}
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishrudh27&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vishrudh27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Vishrudh27&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishrudh27&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<br/>
 
-# 🐍 Contribution Snake
+## 🎯 Current Focus
 
-``` md
-Replace this with your generated snake action output.
-```
+- Strengthening Advanced DSA for placement drives
+- Building production-grade backend + Flutter/React projects
+- Exploring scalable architecture patterns
+- Applying security principles (incl. WireGuard, secure-by-design) to real-world systems
 
-------------------------------------------------------------------------
+<br/>
 
-# 🎯 Current Focus
+<div align="center">
 
--   Advanced DSA
--   Production Backend Development
--   Flutter Development
--   Secure Networking
--   Open Source
+### 💡 *"Clean Code. Scalable Systems. Secure by Design."*
 
-------------------------------------------------------------------------
+<br/>
 
-# 💡 Philosophy
+**Thanks for visiting — let's build something secure.** ⭐
 
-> **Clean Code. Scalable Systems. Secure by Design.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
-------------------------------------------------------------------------
-
-::: {align="center"}
-### Thanks for visiting! ⭐
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:1e1b4b&height=120&section=footer"/>`{=html}
-:::
+</div>
