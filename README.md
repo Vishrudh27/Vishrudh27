@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Final+Year+B.E+%7C+Cybersecurity;Backend+%26+Secure+System+Design;Flutter+%7C+React+%7C+Spring+Boot;Clean+Code.+Scalable+Systems.+Secure+by+Design." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=C7D2FE&center=true&vCenter=true&width=650&lines=Final+Year+B.E+%7C+Cybersecurity;Backend+%26+Secure+System+Design;Flutter+%7C+React+%7C+Spring+Boot;Clean+Code.+Scalable+Systems.+Secure+by+Design." alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Vishrudh27&label=Profile%20Views&color=6366f1&style=flat" alt="profile views"/>
 
@@ -19,9 +19,9 @@
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td align="center" valign="top">
 
-<img src="halftone.png" width="100%" alt="halftone portrait mosaic"/>
+<img src="assets/halftone.png" width="280" height="280" style="object-fit:cover; border-radius:12px;" alt="halftone portrait mosaic"/>
 
 </td>
 <td width="62%" valign="top">
@@ -106,7 +106,7 @@ I build **efficient, scalable software systems** with a strong backend and DSA f
 ## ⚙️ Making the Animations Live (one-time setup)
 
 1. **Special repo** — create a public repo named *exactly* your GitHub username (`Vishrudh27`) if you haven't already. GitHub auto-renders its README on your profile.
-2. **Halftone image** — inside that repo, make an `assets/` folder and upload `vishrudh_halftone_square.png` (renamed `halftone.png`, or update the path in this file).
+2. **Halftone image** — inside that repo, make an `assets/` folder and upload your image as `halftone.png`.
 3. **Fix usernames** — swap every `Vishrudh27` / `vishrudh27` above for your real GitHub handle if it differs.
 4. **Snake game** — the animated snake needs a GitHub Action. Add `.github/workflows/snake.yml`:
 
