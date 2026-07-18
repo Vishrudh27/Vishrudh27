@@ -103,43 +103,6 @@ I build **efficient, scalable software systems** with a strong backend and DSA f
 
 ---
 
-## ⚙️ Making the Animations Live (one-time setup)
-
-1. **Special repo** — create a public repo named *exactly* your GitHub username (`Vishrudh27`) if you haven't already. GitHub auto-renders its README on your profile.
-2. **Halftone image** — inside that repo, make an `assets/` folder and upload your image as `halftone.png`.
-3. **Fix usernames** — swap every `Vishrudh27` / `vishrudh27` above for your real GitHub handle if it differs.
-4. **Snake game** — the animated snake needs a GitHub Action. Add `.github/workflows/snake.yml`:
-
-```yaml
-name: generate animated snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Run it once manually (Actions tab → *generate animated snake* → Run workflow) and the snake will start eating your contribution graph.
-
----
-
 ## 🎯 Current Focus
 
 - Strengthening Advanced DSA for placement drives
