@@ -21,7 +21,7 @@
 <tr>
 <td align="center" valign="top">
 
-<img src="assets/halftone.png" width="280" height="280" style="object-fit:cover; border-radius:12px;" alt="halftone portrait mosaic"/>
+<img src="halftone.png" width="280" height="280" style="object-fit:cover; border-radius:12px;" alt="halftone portrait mosaic"/>
 
 </td>
 <td width="62%" valign="top">
